@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136339898776",
+    "firebase_url": "https://bus-info-63eed.firebaseio.com",
+    "project_id": "bus-info-63eed",
+    "storage_bucket": "bus-info-63eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136339898776:android:465203d3a136fb77",
+        "android_client_info": {
+          "package_name": "edu.angupta.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136339898776-veij7ctgah3k06lqth0j6kibo7u0fgl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUAAtMRHhDkyDonh82sKqfOgofVPPBTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136339898776-veij7ctgah3k06lqth0j6kibo7u0fgl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
